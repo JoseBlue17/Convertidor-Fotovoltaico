@@ -16,7 +16,7 @@ Ejemplo: 204Kvh/30=6.8Kvh<br>
   <br>
 
 - Horas solar pico(HSP): Para averiguar las HSP de la zona en la que vives ingresa al siguiente  <a href= "https://power.larc.nasa.gov/data-access-viewer/">link</a> en la cual te saldra el siguiente recuadro <a href="https://drive.google.com/file/d/1hzIYe8IIwGzV9RC0xq5cWsmc-AV2bW74/view?usp=sharing">ver recuadro</a> dejaras esos datos tal cual como aparece en el recuadro lo unico que hay que cambiar es la altitud y latitud. Para hacerlo ingresa a google maps o a otro sitio
-de tu prefereciar y busca la altitud, latitud de la zona en la que vives. Despues de eso le das a summit te descargara un archivo lo habres y alli te saldran todas las HSP del año asi que tomas el dato del mes en curso.
+de tu preferencia y busca la altitud, latitud de la zona en la que vives. Despues de eso le das a summit te descargara un archivo lo habres y alli te saldran todas las HSP del año asi que tomas el dato del mes en curso.
 
 - Potencia del panel: Aqui puedes ingresar la potencia de panel de tu prefencia por ejemplo en areas residenciales normalmente se utiliza 340w y 405w.
 - Seccion Bateria: Ingresa los datos que te pide en este apartado que son los mismo que el panel solar y el dato que se llama voltaje de bateria puedes ingresar las siguientes 24 o 48 que son las que utilizan normalmente estos sistemas.
