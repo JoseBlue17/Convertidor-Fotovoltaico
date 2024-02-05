@@ -21,5 +21,5 @@ de tu prefereciar y busca la altitud, latitud de la zona en la que vives. Despue
 - Potencia del panel: Aqui puedes ingresar la potencia de panel de tu prefencia por ejemplo en areas residenciales normalmente se utiliza 340w y 405w.
 - Seccion Bateria: Ingresa los datos que te pide en este apartado que son los mismo que el panel solar y el dato que se llama voltaje de bateria puedes ingresar las siguientes 24 o 48 que son las que utilizan normalmente estos sistemas.
 
-  ## Como Ejecutarlo
+  ## Como Ejecutarlo 💻
   - Puedes descargar el archivo zip o clonar el repositorio despues de hacer estos pasos haz clink en el ejecutable llamado convertidor_fotovoltaico.exe que esta en la carpeta ejecutable y asi podras interactuar con el programa.
