@@ -3,11 +3,11 @@
 </div>
 
 # Convertidor-Fotovoltaico 🌤️
-¿Sabes cuantos paneles necesitas para tu hogar o aire acondicionado? Con ayuda de este convertifor fotovoltaico te enteraras cuantos necesitas y que bateria necesitas para tu sistema fotovoltaico.
+¿Sabes cuantos paneles necesitas para tu hogar o aire acondicionado? Con ayuda de este convertidor fotovoltaico te enteraras cuantos necesitas y que bateria necesitas para tu sistema fotovoltaico.
 
 ## Como Usarlo 🤔
 
-- Cuando ejecutes el programa y selecciones el boton calcular paneles solares te saldran tres datos que debes ingresar y son los siguinetes: consumo diario, horas solar pico,potencia del panel.<br><br>
+- Cuando ejecutes el programa y selecciones el boton calcular paneles solares te saldran tres datos que debes ingresar y son los siguientes: consumo diario, horas solar pico,potencia del panel.<br><br>
 - Consumo diario: Lo puedes encontrar en el recibo de la luz, si no lo encuentras y te sale el consumo total del mes en el recibo haras el siguiente calculo matematico (consumo total del mes / dias facturados)
 luego el resultado lo mulplicas por 1000 y ahi te saldra el consumo diario de tu hogar.<br>
 <br>
