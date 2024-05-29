@@ -1,5 +1,5 @@
 <div>
-<img src="" width= 1480 height=500>
+<img src="https://i.ibb.co/xHbc9tY/29d4bf5b-4862-41f5-92f0-7b683102fe9e.jpg" width= 1480 height=500>
 </div>
 
 # Convertidor-Fotovoltaico 🌤️
