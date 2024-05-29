@@ -3,7 +3,7 @@
 </div>
 
 # Convertidor-Fotovoltaico 🌤️
-¿Sabes cuantos paneles necesitas pra tu hogar o aire acondicionado? Con ayuda de este convertifor fotovoltaico te enteraras cuantos necesitas y que bateria necesitas para tu sistema fotovoltaico.
+¿Sabes cuantos paneles necesitas para tu hogar o aire acondicionado? Con ayuda de este convertifor fotovoltaico te enteraras cuantos necesitas y que bateria necesitas para tu sistema fotovoltaico.
 
 ## Como Usarlo 🤔
 
